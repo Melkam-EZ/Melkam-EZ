@@ -78,6 +78,7 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **6 years
 
 ## 📫 Connect With Me
 
+* **LinkedIn**: [Melka Eziokwu](https://www.linkedin.com/in/meleziokwu)
 * **Email**: [melkamev@gmail.com](mailto:melkamev@gmail.com)
 
 ---
